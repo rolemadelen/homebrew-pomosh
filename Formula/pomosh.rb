@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Espanso < Formula
+class Pomosh < Formula
     desc "Command-line pomodoro timer written in Rust"
     homepage "https://github.com/rolemadelen/pomosh"
     url "https://github.com/rolemadelen/pomosh/archive/refs/tags/v0.1.0.tar.gz"
