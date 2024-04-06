@@ -5,7 +5,7 @@ class Pomosh < Formula
     desc "Command-line Pomodoro Timer written in Rust"
     homepage "https://github.com/rolemadelen/pomosh"
     url "https://github.com/rolemadelen/pomosh/releases/download/v0.1.5/pomosh-mac.tar.gz"
-    sha256 "c3f2c527af19cd8cda320ac3e5d082e715987f479c6164688fbb9f490177ac4b"
+    sha256 "79362d2451f86d46eebc295426a1950c969bb66d570b4f172e6cf715894d0166"
     version "0.1.5"
   
     def install
